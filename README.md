@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Digital-Alchemist&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-demo.vercel.app/api?username=The-Digital-Alchemist&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Digital-Alchemist&theme=radical&hide_border=true&border_radius=10" width="49%" alt="GitHub Streak" />
 </div>
 
