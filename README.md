@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+the+Digital+Nexus;Crafting+Cutting-Edge+Cyber+Solutions;Hacking+the+Matrix+Since+2000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+the+Digital+Nexus;Crafting+Cutting-Edge+Cyber+Solutions;Hacking+the+Matrix+Since+2003" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -56,9 +56,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AritraBose10&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+
 
 <br>
 
