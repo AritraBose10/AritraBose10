@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=The-Digital-Alchemist&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AritraBose10&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-Cyberpunk%20City-red?style=for-the-badge" alt="Location" />
 </div>
@@ -15,14 +15,14 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=The-Digital-Alchemist&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Digital-Alchemist&theme=radical&hide_border=true&border_radius=10" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=AritraBose10&show_icons=true&theme=radical&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AritraBose10&theme=radical&hide_border=true&border_radius=10" width="49%" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Digital-Alchemist&theme=radical&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AritraBose10&theme=radical&hide_border=true&layout=compact&langs_count=8&border_radius=10" alt="Top Languages" />
 </div>
 
 <br>
@@ -57,13 +57,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=The-Digital-Alchemist&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AritraBose10&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Digital-Alchemist&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AritraBose10&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </div>
 
 <br>
